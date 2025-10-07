@@ -1,0 +1,70 @@
+#zold{
+    background-color: green;
+}
+#zold h1{
+    color: white;
+    text-align: center;
+}
+p{
+    color: black;
+}
+#ananasz img{
+    float: left;
+    height: 200px;
+    width: auto;
+    padding-left: 10px;
+}
+#tablazat{
+    clear: both;
+}
+table, td{
+    border: solid, black, 2px;
+    border-collapse: collapse;
+    background-color: white;
+}
+#elso{
+    background-image: url(kepek/smiley.png);
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+ol>li{
+    list-style: none;
+}
+ul>li{
+    list-style-image: url(kepek/smiley2.png);
+    list-style-position: inside;
+}
+#szoveg{
+    border: 1px, solid, grey;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#szoveg h1{
+    text-transform: capitalize;
+}
+#szoveg p{
+    text-indent: 50px;
+    text-align: justify;
+}
+#link{
+    text-decoration: none;
+}
+#h h2{
+    text-decoration: underline;
+}
+#h p{
+    font-weight: bold;
+}
+#h h4{
+    font-style: italic;
+}
+#paris{
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+    display: block;
+    margin: auto;
+}
