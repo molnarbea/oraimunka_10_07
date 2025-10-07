@@ -1,0 +1,19 @@
+body{
+    background-color: gray;
+}
+table, td{
+    border-style: solid;
+    border-collapse: collapse;
+}
+.kek{
+    background-color: blue;
+}
+.zold{
+    background-color: green;
+}
+#piros{
+    background-color: red;
+}
+#sarga{
+    background-color: yellow;
+}
